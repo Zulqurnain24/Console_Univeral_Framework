@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "2976908c83d8baab8bbdaabc01a1e247"
+build_time: [1563864319, 378770000]
+inputs:
+  "/Users/mohammadzulqarnain/Desktop/Clients/Gaditek/swift-framework-templates-master 2/Universal/Sources/Console.swift": [1563863231, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Gaditek/swift-framework-templates-master 2/Universal/Sources/Logger.swift": [1563862738, 0]

@@ -1,0 +1,10 @@
+framework module Console {
+  umbrella header "Console.h"
+
+  export *
+  module * { export * }
+}
+
+module Console.__Swift {
+    exclude header "Console-Swift.h"
+}

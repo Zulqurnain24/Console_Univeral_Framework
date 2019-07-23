@@ -1,0 +1,11 @@
+framework module Console {
+  umbrella header "Console.h"
+
+  export *
+  module * { export * }
+}
+
+module Console.Swift {
+    header "Console-Swift.h"
+    requires objc
+}

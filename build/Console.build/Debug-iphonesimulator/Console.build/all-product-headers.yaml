@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mohammadzulqarnain/Library/Developer/Xcode/DerivedData/Console-exxxyfdpukdzjpdbxupvoqllxfiy/Build/Products/Debug-iphonesimulator/Console.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Console-Swift.h",
+          'external-contents': "/Users/mohammadzulqarnain/Library/Developer/Xcode/DerivedData/Console-exxxyfdpukdzjpdbxupvoqllxfiy/Build/Products/Debug-iphonesimulator/Console.framework/Headers/Console-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Console.h",
+          'external-contents': "/Users/mohammadzulqarnain/Desktop/Clients/Gaditek/swift-framework-templates-master 2/Universal/Sources/Console.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mohammadzulqarnain/Library/Developer/Xcode/DerivedData/Console-exxxyfdpukdzjpdbxupvoqllxfiy/Build/Products/Debug-iphonesimulator/Console.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mohammadzulqarnain/Desktop/Clients/Gaditek/swift-framework-templates-master 2/Universal/build/Console.build/Debug-iphonesimulator/Console.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
